@@ -1,5 +1,22 @@
-#title{
-    color: orangered;
+body{
+background-color:#DAE5D0;
+}
+.navbar{
     font-family: fantasy;
-    
+    font-weight: bold;
+    padding: 0;
+    width: 100%;
+    background-color:#DAE5D0;
+    display:flex;
+    justify-content: space-around;
+}
+
+
+a:link,a:visited{
+    color: #A0BCC2;
+    text-decoration:none;
+    }
+a:hover,a:active{
+    text-decoration:none;
+    color: whitesmoke;
 }
